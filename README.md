@@ -57,6 +57,7 @@ Writing from inside an AI-native practice. The reference versions live on [my si
 - [le-bon-format-n-existe-pas](https://github.com/ismael-joffroy-chandoutis/le-bon-format-n-existe-pas): the right format does not exist, it depends who is reading
 - [souverainete-numerique-critique](https://github.com/ismael-joffroy-chandoutis/souverainete-numerique-critique): a critique of the concept of digital sovereignty, and the lexicons that could replace it
 - [deep-research](https://github.com/ismael-joffroy-chandoutis/deep-research): research notes from a filmmaker working with computational instruments
+- [risque-catastrophique-2026](https://github.com/ismael-joffroy-chandoutis/risque-catastrophique-2026): what can be known about a catastrophe before it happens, its shape and not its date
 
 ### Agentic systems, beyond cinema
 

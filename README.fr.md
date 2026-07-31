@@ -57,6 +57,7 @@ Comment la pratique fonctionne réellement : configurations, comparatifs, métho
 - [le-bon-format-n-existe-pas](https://github.com/ismael-joffroy-chandoutis/le-bon-format-n-existe-pas) : le bon format n'existe pas, ça dépend qui lit
 - [souverainete-numerique-critique](https://github.com/ismael-joffroy-chandoutis/souverainete-numerique-critique) : critique du concept de souveraineté numérique, et les lexiques qui pourraient le remplacer
 - [deep-research](https://github.com/ismael-joffroy-chandoutis/deep-research) : notes de recherche d'un cinéaste travaillant avec des instruments computationnels
+- [risque-catastrophique-2026](https://github.com/ismael-joffroy-chandoutis/risque-catastrophique-2026) : ce qu'on peut savoir d'une catastrophe avant qu'elle arrive, sa forme et non sa date
 
 ### Systèmes agentiques, au-delà du cinéma
 
