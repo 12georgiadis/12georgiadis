@@ -30,6 +30,7 @@ Les outils que je construis pour ma propre pratique, publiés quand ils se stabi
 
 | | |
 |---|---|
+| [shoot-storage-calculator](https://github.com/ismael-joffroy-chandoutis/shoot-storage-calculator) | Combien de stockage un tournage a besoin — cartes et disques, dans le navigateur |
 | [prproj-downgrader](https://github.com/ismael-joffroy-chandoutis/prproj-downgrader) | Ouvrir un projet Premiere récent dans un Premiere plus ancien — dans le navigateur, rien n'est envoyé |
 | [self-hosted-film-lab](https://github.com/ismael-joffroy-chandoutis/self-hosted-film-lab) | Garder ses films finis vivants sans les relouer à un laboratoire — stack de conservation et d'exploitation |
 | [cinema-ai-toolkit](https://github.com/ismael-joffroy-chandoutis/cinema-ai-toolkit) | Réparation de voix, analyse VHS, OCR d'archives manuscrites. Éprouvés sur de vraies productions |

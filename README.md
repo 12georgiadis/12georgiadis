@@ -30,6 +30,7 @@ Tools I build for my own practice, released as they stabilize.
 
 | | |
 |---|---|
+| [shoot-storage-calculator](https://github.com/ismael-joffroy-chandoutis/shoot-storage-calculator) | How much storage a film shoot needs — card and disk planning, in the browser |
 | [prproj-downgrader](https://github.com/ismael-joffroy-chandoutis/prproj-downgrader) | Open a newer Premiere project in an older Premiere — in the browser, nothing uploaded |
 | [self-hosted-film-lab](https://github.com/ismael-joffroy-chandoutis/self-hosted-film-lab) | Keep your finished films alive without renting them back from a lab — conservation & exploitation stack |
 | [cinema-ai-toolkit](https://github.com/ismael-joffroy-chandoutis/cinema-ai-toolkit) | Voice repair, VHS analysis, OCR for handwritten archives. Proven on real productions |
