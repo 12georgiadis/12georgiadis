@@ -30,6 +30,7 @@ Tools I build for my own practice, released as they stabilize.
 
 | | |
 |---|---|
+| [self-hosted-film-lab](https://github.com/ismael-joffroy-chandoutis/self-hosted-film-lab) | Keep your finished films alive without renting them back from a lab — conservation & exploitation stack |
 | [cinema-ai-toolkit](https://github.com/ismael-joffroy-chandoutis/cinema-ai-toolkit) | Voice repair, VHS analysis, OCR for handwritten archives. Proven on real productions |
 | [comfyui-cinema-pipeline](https://github.com/ismael-joffroy-chandoutis/comfyui-cinema-pipeline) | ComfyUI for professional cinema production, 70+ workflows with honest stability ratings |
 | [comfyui-blender-temporal](https://github.com/ismael-joffroy-chandoutis/comfyui-blender-temporal) | Blender EXR passes as temporal conditioning for AI cinema |
