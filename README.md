@@ -30,6 +30,7 @@ Tools I build for my own practice, released as they stabilize.
 
 | | |
 |---|---|
+| [prproj-downgrader](https://github.com/ismael-joffroy-chandoutis/prproj-downgrader) | Open a newer Premiere project in an older Premiere — in the browser, nothing uploaded |
 | [self-hosted-film-lab](https://github.com/ismael-joffroy-chandoutis/self-hosted-film-lab) | Keep your finished films alive without renting them back from a lab — conservation & exploitation stack |
 | [cinema-ai-toolkit](https://github.com/ismael-joffroy-chandoutis/cinema-ai-toolkit) | Voice repair, VHS analysis, OCR for handwritten archives. Proven on real productions |
 | [comfyui-cinema-pipeline](https://github.com/ismael-joffroy-chandoutis/comfyui-cinema-pipeline) | ComfyUI for professional cinema production, 70+ workflows with honest stability ratings |
