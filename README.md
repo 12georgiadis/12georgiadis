@@ -69,6 +69,10 @@ My studio runs as an agentic system: a fleet of five machines under a single mem
 - [ai-agentic-methods](https://github.com/ismael-joffroy-chandoutis/ai-agentic-methods): reusable agentic methods: GEO/AEO, reporting, QC harnesses
 - [decentralized-compute-sota](https://github.com/ismael-joffroy-chandoutis/decentralized-compute-sota): a verified state of the art of decentralized AI compute
 - [autonomie-llm-local-2026](https://github.com/ismael-joffroy-chandoutis/autonomie-llm-local-2026): sovereign local LLM hardware, from memory bandwidth up
+- [guide-location-compute](https://github.com/ismael-joffroy-chandoutis/guide-location-compute): renting compute to create with AI: the five tiers, billing traps, remote control, the VRAM ladder, carbon at two levels
+- [glossaire-ia-art-cinema](https://github.com/ismael-joffroy-chandoutis/glossaire-ia-art-cinema): a working glossary of AI, art and cinema, written from practice
+- [affordance-inference](https://github.com/ismael-joffroy-chandoutis/affordance-inference): affordance and inference as tools to think creation with generative models
+- [evaluer-les-modeles](https://github.com/ismael-joffroy-chandoutis/evaluer-les-modeles): evaluating models by phase of work rather than by domain
 
 For consulting, audits and applied AI systems: **contact via [site](https://ismaeljoffroychandoutis.com/contact)**.
 

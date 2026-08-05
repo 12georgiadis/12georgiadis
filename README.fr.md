@@ -69,6 +69,10 @@ Mon studio fonctionne comme un système agentique : une flotte de cinq machines 
 - [ai-agentic-methods](https://github.com/ismael-joffroy-chandoutis/ai-agentic-methods) : méthodes agentiques réutilisables : GEO/AEO, reporting, contrôle qualité
 - [decentralized-compute-sota](https://github.com/ismael-joffroy-chandoutis/decentralized-compute-sota) : état de l'art vérifié du calcul IA décentralisé
 - [autonomie-llm-local-2026](https://github.com/ismael-joffroy-chandoutis/autonomie-llm-local-2026) : matériel LLM local souverain, à partir de la bande passante mémoire
+- [guide-location-compute](https://github.com/ismael-joffroy-chandoutis/guide-location-compute) : louer de la puissance de calcul pour créer avec l'IA : les cinq étages, les pièges de facturation, le pilotage à distance, l'échelle VRAM, le carbone à deux niveaux
+- [glossaire-ia-art-cinema](https://github.com/ismael-joffroy-chandoutis/glossaire-ia-art-cinema) : un glossaire de travail sur l'IA, l'art et le cinéma, écrit depuis la pratique
+- [affordance-inference](https://github.com/ismael-joffroy-chandoutis/affordance-inference) : l'affordance et l'inférence comme outils pour penser la création avec les modèles génératifs
+- [evaluer-les-modeles](https://github.com/ismael-joffroy-chandoutis/evaluer-les-modeles) : évaluer les modèles par phase de travail plutôt que par domaine
 
 Pour le conseil, les audits et les systèmes IA appliqués : **contact via le [site](https://ismaeljoffroychandoutis.com/contact)**.
 
