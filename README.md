@@ -66,7 +66,7 @@ Writing from inside an AI-native practice. The reference versions live on [my si
 
 My studio runs as an agentic system: a fleet of five machines under a single memory, autonomous agent teams, verification harnesses, reporting pipelines. I engineer it myself, and the same systems apply to organizations. Selected public work:
 
-- [ai-agentic-methods](https://github.com/ismael-joffroy-chandoutis/ai-agentic-methods): reusable agentic methods: GEO/AEO, reporting, QC harnesses
+- [ai-agentic-methods](https://github.com/ismael-joffroy-chandoutis/ai-agentic-methods): reusable agentic methods, and nine lessons from taking an agent-run document service to production: blind backtesting against human review, source anchoring, transparent correction loops, engine agnosticism
 - [decentralized-compute-sota](https://github.com/ismael-joffroy-chandoutis/decentralized-compute-sota): a verified state of the art of decentralized AI compute
 - [autonomie-llm-local-2026](https://github.com/ismael-joffroy-chandoutis/autonomie-llm-local-2026): sovereign local LLM hardware, from memory bandwidth up
 - [guide-location-compute](https://github.com/ismael-joffroy-chandoutis/guide-location-compute): renting compute to create with AI: the five tiers, billing traps, remote control, the VRAM ladder, carbon at two levels
