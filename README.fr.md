@@ -66,7 +66,7 @@ Comment la pratique fonctionne réellement : configurations, comparatifs, métho
 
 Mon studio fonctionne comme un système agentique : une flotte de cinq machines sous une mémoire unique, des équipes d'agents autonomes, des dispositifs de vérification, des chaînes de reporting. Je l'assemble moi-même, et les mêmes systèmes s'appliquent aux organisations. Travaux publics choisis :
 
-- [ai-agentic-methods](https://github.com/ismael-joffroy-chandoutis/ai-agentic-methods) : méthodes agentiques réutilisables : GEO/AEO, reporting, contrôle qualité
+- [ai-agentic-methods](https://github.com/ismael-joffroy-chandoutis/ai-agentic-methods) : méthodes agentiques réutilisables, et neuf leçons tirées de la mise en production d'un service documentaire conduit par des agents : backtest à l'aveugle contre une relecture humaine, ancrage des sources, boucle de correction transparente, agnosticisme moteur
 - [decentralized-compute-sota](https://github.com/ismael-joffroy-chandoutis/decentralized-compute-sota) : état de l'art vérifié du calcul IA décentralisé
 - [autonomie-llm-local-2026](https://github.com/ismael-joffroy-chandoutis/autonomie-llm-local-2026) : matériel LLM local souverain, à partir de la bande passante mémoire
 - [guide-location-compute](https://github.com/ismael-joffroy-chandoutis/guide-location-compute) : louer de la puissance de calcul pour créer avec l'IA : les cinq étages, les pièges de facturation, le pilotage à distance, l'échelle VRAM, le carbone à deux niveaux
